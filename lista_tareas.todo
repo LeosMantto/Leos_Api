@@ -1,0 +1,70 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1672162226128,
+        "children": [
+          {
+            "key": 1672162239378,
+            "children": [
+              {
+                "key": 1672162257602,
+                "children": [],
+                "todo": {
+                  "content": "/usr/sgm",
+                  "id": 1672162257602,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1672162272875,
+                "children": [],
+                "todo": {
+                  "content": "/usr/",
+                  "id": 1672162272875,
+                  "level": "default",
+                  "done": false
+                }
+              },
+              {
+                "key": 1672162286763,
+                "children": [],
+                "todo": {
+                  "content": "/usr/empleados",
+                  "id": 1672162286763,
+                  "level": "default",
+                  "done": false
+                }
+              }
+            ],
+            "todo": {
+              "content": "rutas nuevas",
+              "id": 1672162239378,
+              "level": "default",
+              "done": false
+            }
+          }
+        ],
+        "todo": {
+          "content": "issues",
+          "id": 1672162226128,
+          "level": "default",
+          "done": false
+        }
+      }
+    ],
+    "expandKeys": [
+      1672162226128,
+      1672162239378
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "lista_tareas",
+    "autoSort": false,
+    "lang": "en"
+  }
+}
